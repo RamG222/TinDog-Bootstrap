@@ -4,7 +4,7 @@
 Simple Static HTML and CSS website using Bootstrap Framework.
 
 ## Live Demo 
-Link for github deployment :- https://ramg222.github.io/tinderDog/
+Link for github deployment :- [https://ramg222.github.io/tinderDog/](https://ramg222.github.io/TinDog-Bootstrap/)
 
 ## Contact information 
 
